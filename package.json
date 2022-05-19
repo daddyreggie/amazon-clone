@@ -1,6 +1,6 @@
 {
-  "name": "amazon-clone",
-  "homepage": "https://github.com/daddyreggie/bubblegirls.git",
+  "name": "bubble-gal",
+  "homepage": "https://github.com/daddyreggie/bubble-gal.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
